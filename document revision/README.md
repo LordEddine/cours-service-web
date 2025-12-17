@@ -1,6 +1,6 @@
 # 📚 Révision Complète - Cours Service Web (TypeScript)
 
-## USTO Mohamed Boudiaf - Session 2024/2025
+## College de Maisonneuve - Session 2025/2026
 
 ---
 
@@ -2104,4 +2104,4 @@ Authorization: Bearer <votre_token>
 
 ---
 
-*Document de révision - Service Web TypeScript - USTO Mohamed Boudiaf - 2024/2025*
+*Document de révision - Service Web TypeScript - College de Maisonneuve - 2025/2026*
