@@ -1085,4 +1085,4 @@ try {
 
 ---
 
-*Document préparé pour le cours de Développement Web - USTO Mohamed Boudiaf*
+*Document préparé pour le cours de Développement Web - College de Maisonneuve - Session 2025/2026*
